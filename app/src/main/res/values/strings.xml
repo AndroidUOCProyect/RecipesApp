@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Recipe</string>
-    <string name="recipeName">Recipe Name</string>
-    <string name="ingredients">Ingredients</string>
+    <string name="app_name">Recetas</string>
+    <string name="recipeName">Nombre de la Receta</string>
+    <string name="ingredients">Ingredientes</string>
 </resources>
